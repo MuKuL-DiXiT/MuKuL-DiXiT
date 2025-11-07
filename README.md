@@ -13,6 +13,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuKuL-DiXiT&theme=dark&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuKuL-DiXiT&layout=compact&theme=react" />
+</p>
 
 ### Featured Projects
 
