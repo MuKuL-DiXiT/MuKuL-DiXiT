@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/𐌌𐌵𐌊𐌵𐌋%20𐌃𐌉𐋄𐌉𐌕-purple?style=for-the-badge&logo=github" width="300" />
-</p>
-
 <h2 align="center">𝙷𝚒, 𝚃𝚑𝚒𝚜 𝚒𝚜</h2>
 <div align="center"><img src="./mukul dixit.png"  width="400"/></div>
 <h4 align="center">
