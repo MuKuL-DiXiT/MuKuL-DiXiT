@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=180&section=header&text=Mukul%20Dixit&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+Enthusiast;ML+Explorer;Always+Learning"/>
 </p>
@@ -20,15 +19,13 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### Frontend & Backend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 
-### Data & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
@@ -36,7 +33,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 
-### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
@@ -45,7 +41,7 @@
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -54,7 +50,7 @@
 
 ---
 
-## 📊 Stats & Performance
+##  Stats & Performance
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuKuL-DiXiT&show_icons=true&theme=tokyonight"/>
@@ -71,7 +67,7 @@
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 Full-Stack Web Development • Data Analysis & Visualization • Machine Learning • System Design
 
