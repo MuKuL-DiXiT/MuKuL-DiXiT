@@ -1,63 +1,84 @@
-
-<h2 align="center">𝙷𝚒, 𝚃𝚑𝚒𝚜 𝚒𝚜</h2>
-<div align="center"><img src="./mukul dixit.png"  width="400"/></div>
-<h4 align="center">
-  Aspiring software engineer skilled in React, Node.js, Express, MongoDB & PostgreSQL. I focus on writing clean, efficient code and quickly adapting to new technologies.
-</h4>
-
----
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuKuL-DiXiT&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuKuL-DiXiT&layout=compact&theme=react" />
-</p>
-
-### Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/MuKuL-DiXiT/Futures-Hope">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuKuL-DiXiT&repo=Futures-Hope&theme=github_dark" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/MuKuL-DiXiT/Fit-Fusion">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuKuL-DiXiT&repo=Fit-Fusion&theme=github_dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### LeetCode Performance
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mukul_1608?theme=dark&font=Roboto&ext=contest&radius=12" alt="LeetCode Stats"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=180&section=header&text=Mukul%20Dixit&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Mukul_1608&animated=true&theme=dark" alt="LeetCode Badges" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+Enthusiast;ML+Explorer;Always+Learning"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukul2427/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MuKuL-DiXiT">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/Mukul_1608">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-### About Me
+## 🚀 Tech Stack
 
--  Working on **environmental & health-based web platforms**
--  Learning **Machine Learning & System Design**
--  Ask me about **MERN Stack, Express.js, or React**
--  Fun fact: I’m constantly mixing creativity with code.
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+
+### Data & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
+## 💼 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [Future’s Hope](https://github.com/MuKuL-DiXiT/Futures-Hope) | Environmental sustainability platform (MERN) |
+| [Fit Fusion](https://github.com/MuKuL-DiXiT/Fit-Fusion) | Health & fitness tracking app |
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul2427/)
 
+## 📊 Stats & Performance
 
 <p align="center">
-  <i>“Learning continuously — be it Dev, Decentralization, or ML.”</i>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuKuL-DiXiT&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=MuKuL-DiXiT&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuKuL-DiXiT&theme=react-dark"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mukul_1608?theme=dark&font=Roboto&ext=contest" height="250"/>
+</p>
+
+---
+
+## 🎯 Focus Areas
+
+Full-Stack Web Development • Data Analysis & Visualization • Machine Learning • System Design
+
+> *“Learning continuously — Dev, DSA, and ML.”*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer&animation=fadeIn"/>
 </p>
