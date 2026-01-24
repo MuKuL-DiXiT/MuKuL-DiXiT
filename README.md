@@ -53,8 +53,9 @@
 ##  Stats & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuKuL-DiXiT&show_icons=true&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=MuKuL-DiXiT&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=mukul-dixit&show_icons=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul-dixit&layout=compact&theme=radical&hide=html,css,makefile,python&langs_count=8&count_private=true" />
+
 </p>
 
 <p align="center">
