@@ -15,7 +15,11 @@
   <a href="https://leetcode.com/Mukul_1608">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  
+  ![](https://komarev.com/ghpvc/?username=MuKuL-DiXiT&style=for-the-badge&color=blueviolet)
 </p>
+
+
 
 ---
 
