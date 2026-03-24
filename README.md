@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=180&section=header&text=Mukul%20Dixit&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+Enthusiast;ML+Explorer;Always+Learning"/>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mukul2427/">
