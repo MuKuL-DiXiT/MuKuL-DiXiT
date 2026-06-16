@@ -4,7 +4,7 @@
 > system.status()
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&pause=1300&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+Dev+%E2%80%94+building+a+multi-tenant+SaaS;50%2B+REST+APIs+shipped+in+production;600%2B+DSA+problems+%E2%80%A2+peak+rating+1894;CNN%2BLSTM+models+running+on+live+CCTV+feeds" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&pause=1300&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+Dev+%E2%80%94+building+a+multi-tenant+SaaS;CNN%2BLSTM+models+running+on+live+CCTV+feeds" />
 
 `Bhopal, India` &nbsp;·&nbsp; [`linkedin`](https://www.linkedin.com/in/mukul2427/) &nbsp;·&nbsp; [`leetcode`](https://leetcode.com/u/mukul_1608/) &nbsp;·&nbsp; [`portfolio`](http://mukuldixit.netlify.app)
 
