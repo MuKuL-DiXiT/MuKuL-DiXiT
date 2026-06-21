@@ -68,25 +68,17 @@ Real-time violence detection on live CCTV streams. <br>
 ```
 > git.log(--stat, --all-time)
 ```
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuKuL-DiXiT&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=3FB950&text_color=8b949e&ring_color=58A6FF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuKuL-DiXiT&hide_border=true&background=0d1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuKuL-DiXiT&theme=github-dark&hide_border=true&area=true" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuKuL-DiXiT&theme=github_dark" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuKuL-DiXiT&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e" />
 </div>
 
 <br>
-
-```
-> leetcode.profile("mukul_1608")
-```
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/mukul_1608?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-</div>
-
-<sub align="center">600+ problems solved · peak contest rating 1894</sub>
-
-<br><br>
 
 ```
 > stack.dump()
@@ -117,6 +109,16 @@ Real-time violence detection on live CCTV streams. <br>
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=F78166)
 
 </td></tr>
+<tr><td><b>machine learning</b></td><td>
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FFFFFF)
+![OpenCV](https://img.shields.io/badge/-OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=FFFFFF)
+![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=FFFFFF)
+![Plotly](https://img.shields.io/badge/-Plotly-0d1117?style=flat-square&logo=plotly&logoColor=FFFFFF)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=FFFFFF)
+![YOLO](https://img.shields.io/badge/-YOLOv8-0d1117?style=flat-square)
+
+</td></tr>
 <tr><td><b>data</b></td><td>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=A78BFA)
@@ -126,12 +128,30 @@ Real-time violence detection on live CCTV streams. <br>
 <tr><td><b>infra</b></td><td>
 
 ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=8b949e)
+![NGINX](https://img.shields.io/badge/-NGINX-0d1117?style=flat-square&logo=nginx&logoColor=8b949e)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-0d1117?style=flat-square&logo=ffmpeg&logoColor=8b949e)
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=8b949e)
 ![Postman](https://img.shields.io/badge/-Postman-0d1117?style=flat-square&logo=postman&logoColor=8b949e)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=8b949e)
 
 </td></tr>
 </table>
+
+<br>
+
+```
+> leetcode.profile("mukul_1608")
+```
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/mukul_1608?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</div>
+
+<sub align="center">600+ problems solved · peak contest rating 1894</sub>
+
+<br><br>
+
+
 
 <br>
 
