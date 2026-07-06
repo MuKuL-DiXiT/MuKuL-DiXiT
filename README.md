@@ -137,21 +137,6 @@ Real-time violence detection on live CCTV streams. <br>
 </td></tr>
 </table>
 
-<br>
-
-```
-> leetcode.profile("mukul_1608")
-```
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/mukul_1608?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-</div>
-
-<sub align="center">600+ problems solved · peak contest rating 1894</sub>
-
-<br><br>
-
-
 
 <br>
 
