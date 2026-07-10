@@ -1,23 +1,60 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="35%" valign="top">
+
+```
+MMMMMMMMMMMMMMMWO:,,,,,,,,;lx0XWMMMMMMMMMMMMMMMMMM
+MMMMMMMMMWNXKko;'.',,'','.....',cdkXMMMMMMMMMMMMMM
+MMMMMMMKl,,,,'.......''''......'''',oKMMMMMMMMMMMM
+MMMMMN:.'..............','...'''.''.',ckXMMMMMMMMM
+MMMMMl...............''''''''......'..'',lNMMMMMMM
+MMMWx...................................'':KMMMMMM
+MMMx.......................................'xWMMMM
+MMW:......,cl:;;:coxxl;,...'.................kMMMM
+MWl','..',ldxxxkkkO000kl;,:c;'...............lMMMM
+MWl,:,....;ddxxxxkO00OOOOxllool:,,''........'0MMMM
+MMWKd'....,dkxxkkOO0000OO00Okxxdoolc;'.....,KMMMMM
+MMMMMd...;kKKkdddollodddxxxdoc;;,,,,,'....:WMMMMMM
+MMMMMMd;:O00kccc:;,'.',cdxl,....,;;'....'.d0XMMMMM
+MMMMWKkll0K0oc:cc,.:clddkOo',cod'.,'......'';WMMMM
+MMMMXcdko0K0xxdddooodkkxkOk::oddoc:;::;,'.'';MMMMM
+MMMMNkOxo0XXOOO000OOOOkkO0kl,cxkOOkkxxo;'..'oMMMMM
+MMMMM0OkOk0KOOO000000OxkO0Od;,okOkkxdoc,'...0MMMMM
+MMMMMXOOOkkkxkkkOO000Oxcclc'.',dkxdooc;...''0MMMMM
+MMMMMW0OOOOkxxxkkkOOOOxdxo:''',cdollc;'.;;:oNMMMMM
+MMMMMMWXXX0Okxkkkkkkxxxddddl::::cc::;'..KMMMMMMMMM
+MMMMMMMMMMXkkxxkkxolcllllc:;;,..'',,'..;MMMMMMMMMM
+MMMMMMMMMMMOxxxxxdoddoddxxxoc;,,,,'....0MMMMMMMMMM
+MMMMMMMMMMMWxddooooddollc:,''..''....'OMMMMMMMMMMM
+MMMMMMMMMMMMKdlllooddxxxdolcc:;,'....0MMMMMMMMMMMM
+MMMMMMMMMMMMKkxl:;codddddoll:,'......KMMMMMMMMMMMM
+MMMMMMMMMMMWkkxxdl:,''''.............0MMMMMMMMMMMM
+MMMMMMMMMMWcokkkxdddoc,...............kMMMMMMMMMMM
+MMMMMMMMMXl,cxkkkxdooodxl'........... .KMMMMMMMMMM
+MMMWXOdl;,,,'oxkkxxdoollc'...........  .,lkKWMMMMM
+ko:,'''''',,''xxxxxxddoc;,,'........        .,cd0X
+'''''''''''',.,xxxdddoollc;'.,:;...             ..
+''''''''''...'.;dxdooollc:;,,:c:,....         ....
+'''''''''''..'..cxxdoollcc:;:cc;,'..   .......''''
+
+```
+
+</td>
+<td width="65%" valign="top">
 
 ```
 > system.status()
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&pause=1300&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+Dev+%E2%80%94+building+a+multi-tenant+SaaS;CNN%2BLSTM+models+running+on+live+CCTV+feeds" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&pause=1300&color=58A6FF&center=false&vCenter=true&width=500&height=50&lines=Full-Stack+Dev+%E2%80%94+building+a+multi-tenant+SaaS;CNN%2BLSTM+models+running+on+live+CCTV+feeds" />
 
 `Bhopal, India` &nbsp;·&nbsp; [`linkedin`](https://www.linkedin.com/in/mukul2427/) &nbsp;·&nbsp; [`leetcode`](https://leetcode.com/u/mukul_1608/) &nbsp;·&nbsp; [`portfolio`](http://mukuldixit.netlify.app)
-
-</div>
 
 <br>
 
 ```
 > role.current()
 ```
-
-<table width="100%">
-<tr><td>
 
 **Full-Stack Developer Intern** — Mark My AD · Gurugram (Remote) `Feb 2025 — Present`
 
@@ -27,6 +64,30 @@ Next.js, Node.js, MongoDB, and the Meta WhatsApp Cloud API.
 &nbsp;&nbsp;&nbsp;`▸` Designed & shipped **50+ REST APIs and webhooks** for campaign automation, chatbot flows, tenant management <br>
 &nbsp;&nbsp;&nbsp;`▸` Built **15+ Next.js pages** and reusable dashboard components, customer-facing + internal <br>
 &nbsp;&nbsp;&nbsp;`▸` Trained billboard detection models — custom Roboflow datasets, multi-model registry pipeline for ML lifecycle <br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```
+> projects.featured() --pin
+```
+
+<table width="100%">
+<tr><td>
+
+**pyproxy-loadbalancer** ↗ [`pypi`](https://pypi.org/project/pyproxy-loadbalancer/) — `pip install pyproxy-loadbalancer` <br>
+`Python · Sockets · Threading · Docker · Multi-Arch (amd64/arm64)`
+
+A production-ready, modular **TCP Proxy + observability-enabled TCP/HTTP Load Balancer**, shipped as a CLI and published to PyPI. Built entirely on Python's standard `socket`/`threading` libs — no frameworks. <br>
+&nbsp;&nbsp;&nbsp;`▸` Dual-mode traffic handling — raw **Layer 4 TCP** forwarding or **Layer 7 HTTP** reverse-proxying with header rewriting <br>
+&nbsp;&nbsp;&nbsp;`▸` Pluggable **Strategy Pattern** routing — least-connections & round-robin (configurable quantum) <br>
+&nbsp;&nbsp;&nbsp;`▸` **Transparent mid-flight failover** — buffers & replays in-flight requests to a healthy backend on `ECONNRESET`/`EPIPE`, zero client-visible disruption <br>
+&nbsp;&nbsp;&nbsp;`▸` Background **health-check daemon** (HTTP or raw TCP probes) + a live **JSON telemetry API** on port `9090` <br>
+&nbsp;&nbsp;&nbsp;`▸` **Multi-arch Docker builds** via manifest lists — same image tag auto-resolves on x86_64 and AWS Graviton/ARM64 <br>
+&nbsp;&nbsp;&nbsp;`▸` Ships two CLI entry points, `pyproxy` and `pyproxy-server`, config via YAML + `.env` overrides <br>
 
 </td></tr>
 </table>
